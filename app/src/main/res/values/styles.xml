@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+  <!--  LivCode Sample X-->
+  <style name="Widget.Cyberpunk.Button.ActionButton" parent="Widget.MaterialComponents.Button.UnelevatedButton">
+    <item name="backgroundTint">?attr/colorError</item>
+    <item name="shapeAppearance">@style/ShapeAppearance.Cyberpunk.SmallComponent.DoubleCorner</item>
+  </style>
+
+
+  <style name="Widget.Cyber.FloatingActionButton" parent="Widget.MaterialComponents.FloatingActionButton">
+    <item name="shapeAppearanceOverlay">@style/ShapeAppearance.Cyberpunk.Fab</item>
+  </style>
+
+  <style name="Widget.Cyberpunk.Toolbar.PrimarySurface" parent="Widget.MaterialComponents.Toolbar.PrimarySurface">
+    <item name="titleTextAppearance">@style/TextAppearance.MaterialComponents.Headline6.Cyberpunk.Toolbar</item>
+  </style>
+
+
+</resources>

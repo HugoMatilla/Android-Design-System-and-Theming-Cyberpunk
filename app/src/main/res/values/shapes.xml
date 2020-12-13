@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+  <!--  <style name="ShapeAppearance.MaterialComponents.SmallComponent.Cyberpunk">-->
+  <style name="ShapeAppearance.Cyberpunk.SmallComponent" parent="ShapeAppearance.MaterialComponents.SmallComponent">
+    <item name="cornerFamily">cut</item>
+    <item name="cornerSize">10dp</item>
+    <item name="cornerSizeTopLeft">0dp</item>
+    <item name="cornerSizeBottomLeft">0dp</item>
+    <item name="cornerSizeBottomRight">0dp</item>
+  </style>
+
+
+  <style name="ShapeAppearance.Cyberpunk.MediumComponent" parent="ShapeAppearance.MaterialComponents.MediumComponent">
+    <item name="cornerFamily">cut</item>
+    <item name="cornerSize">5%</item>
+    <item name="cornerSizeTopLeft">0dp</item>
+    <item name="cornerSizeTopRight">0dp</item>
+  </style>
+
+  <style name="ShapeAppearance.Cyberpunk.LargeComponent" parent="ShapeAppearance.MaterialComponents.LargeComponent">
+    <item name="cornerFamily">cut</item>
+    <item name="cornerSizeTopRight">20dp</item>
+  </style>
+
+
+  <!--CUSTOM-->
+  <style name="ShapeAppearance.Cyberpunk.Fab" parent="ShapeAppearance.MaterialComponents.SmallComponent">
+    <item name="cornerFamily">cut</item>
+    <item name="cornerSize">50%</item>
+    <item name="cornerSizeTopRight">50%</item>
+    <item name="cornerSizeTopLeft">50%</item>
+    <item name="cornerSizeBottomLeft">50%</item>
+    <item name="cornerSizeBottomRight">50%</item>
+  </style>
+
+  <style name="ShapeAppearance.Cyberpunk.SmallComponent.DoubleCorner" parent="ShapeAppearance.MaterialComponents.SmallComponent">
+    <item name="cornerFamily">cut</item>
+    <item name="cornerSize">10dp</item>
+    <item name="cornerSizeTopLeft">0dp</item>
+    <item name="cornerSizeBottomRight">0dp</item>
+  </style>
+
+</resources>

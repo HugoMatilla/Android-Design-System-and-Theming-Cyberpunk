@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+  <style name="TextAppearance.MaterialComponents.Body1.Cyberpunk">
+    <item name="fontFamily">@font/tomorrow</item>
+  </style>
+
+  <style name="TextAppearance.MaterialComponents.Body2.Cyberpunk">
+    <item name="fontFamily">@font/tomorrow</item>
+  </style>
+
+  <style name="TextAppearance.MaterialComponents.Button.Cyberpunk">
+    <item name="fontFamily">@font/tomorrow</item>
+  </style>
+
+  <style name="TextAppearance.MaterialComponents.Overline.Cyberpunk">
+    <item name="fontFamily">@font/tomorrow</item>
+  </style>
+
+  <style name="TextAppearance.MaterialComponents.Caption.Cyberpunk">
+    <item name="fontFamily">@font/tomorrow</item>
+  </style>
+
+  <style name="TextAppearance.MaterialComponents.Headline1.Cyberpunk">
+    <item name="fontFamily">@font/tomorrow</item>
+  </style>
+
+  <style name="TextAppearance.MaterialComponents.Headline2.Cyberpunk">
+    <item name="fontFamily">@font/tomorrow</item>
+  </style>
+
+  <style name="TextAppearance.MaterialComponents.Headline3.Cyberpunk">
+    <item name="fontFamily">@font/tomorrow</item>
+  </style>
+
+  <style name="TextAppearance.MaterialComponents.Headline4.Cyberpunk">
+    <item name="fontFamily">@font/tomorrow</item>
+  </style>
+
+  <style name="TextAppearance.MaterialComponents.Headline5.Cyberpunk">
+    <!--    <item name="android:textStyle">bold</item>-->
+    <!--        <item name="android:textFontWeight">700</item>-->
+    <item name="fontFamily">@font/tomorrow</item>
+  </style>
+
+  <style name="TextAppearance.MaterialComponents.Headline6.Cyberpunk">
+    <item name="fontFamily">@font/tomorrow</item>
+  </style>
+
+  <style name="TextAppearance.MaterialComponents.Subtitle1.Cyberpunk">
+    <item name="fontFamily">@font/tomorrow</item>
+    <item name="android:layout_gravity">right</item>
+    <item name="android:gravity">right</item>
+  </style>
+
+  <style name="TextAppearance.MaterialComponents.Subtitle2.Cyberpunk">
+    <item name="fontFamily">@font/tomorrow</item>
+  </style>
+  <!--  LiveCode Sample 5-->
+  <style name="TextAppearance.MaterialComponents.Headline6.Cyberpunk.Toolbar">
+    <item name="fontFamily">@font/cyberpunk</item>
+  </style>
+
+</resources>

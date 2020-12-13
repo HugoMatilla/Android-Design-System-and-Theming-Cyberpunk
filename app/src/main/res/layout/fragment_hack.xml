@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+  xmlns:app="http://schemas.android.com/apk/res-auto"
+  android:layout_width="match_parent"
+  android:layout_height="wrap_content"
+  android:orientation="vertical">
+
+
+  <TextView
+    android:id="@+id/title"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_margin="16dp"
+    android:gravity="center"
+    android:text="Buy Now"
+    android:textAppearance="?attr/textAppearanceHeadline5"
+    app:layout_constraintLeft_toLeftOf="parent"
+    app:layout_constraintRight_toRightOf="parent"
+    app:layout_constraintTop_toBottomOf="@+id/image" /><!--        android:fontFamily="@font/tomorrow"-->
+
+
+  <com.google.android.material.card.MaterialCardView
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_margin="16dp"
+    android:theme="@style/ThemeOverlay.Cyberpunk.YellowSurface">
+
+    <LinearLayout
+      android:layout_width="match_parent"
+      android:layout_height="wrap_content"
+      android:orientation="vertical">
+
+      <TextView
+        android:id="@+id/path"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="16dp"
+        android:gravity="left"
+        android:text="Buy the new Cyberpunk Game 2077 in PC, Playsttion or XBOX"
+        android:textAppearance="?attr/textAppearanceBody1" />
+
+      <TextView
+        android:id="@+id/rating"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="16dp"
+        android:gravity="right"
+        android:text="$59.99"
+        android:textAppearance="?attr/textAppearanceBody2" /><!--        android:textColor="?attr/colorSecondary"-->
+
+
+      <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_margin="16dp"
+        android:text="Buy" />
+    </LinearLayout>
+  </com.google.android.material.card.MaterialCardView>
+</LinearLayout>
