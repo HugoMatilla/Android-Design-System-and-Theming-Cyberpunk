@@ -16,10 +16,9 @@ class MainActivity : AppCompatActivity() {
 
   private lateinit var homeFragment: HomeFragment
   private lateinit var widgetsFragment: WidgetsFragment
-
   override fun onCreate(savedInstanceState: Bundle?) {
     super.onCreate(savedInstanceState)
-//    setTheme(R.style.Theme_MyApp_Alternative) // uncomment to change the activity's theme
+//    setTheme(R.style.Theme_AndroidThemingKitty)
     setContentView(R.layout.activity_main)
     setupFragments()
     setupBottomNavigation()

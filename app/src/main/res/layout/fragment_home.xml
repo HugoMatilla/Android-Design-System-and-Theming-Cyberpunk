@@ -5,6 +5,7 @@
   android:layout_width="match_parent"
   android:layout_height="wrap_content"
   tools:context=".MainActivity">
+  <!--  android:background="@color/redCyberDark"-->
 
   <LinearLayout
     android:layout_width="match_parent"
@@ -93,6 +94,8 @@
 
     </com.google.android.material.card.MaterialCardView>
 
+
+    <!-- LiveCode Sample 1-->
     <Button
       android:layout_width="wrap_content"
       android:layout_height="wrap_content"
@@ -100,6 +103,9 @@
       android:layout_margin="16dp"
       android:text="Hacking Button" />
 
+    <!-- LiveCode Sample 2-->
+    <!--    style="@style/Widget.MaterialComponents.Button.OutlinedButton"-->
+    <!-- style="@style/Widget.Cyberpunk.Button.ActionButton"-->
     <com.google.android.material.floatingactionbutton.FloatingActionButton
       android:id="@+id/fab"
       android:layout_width="wrap_content"

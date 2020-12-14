@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
-  <!--    LiveCode Sample 1-->
+  <!-- LiveCode Sample 1-->
   <!--  <color name="colorPrimary">#6200EE</color>-->
   <!--  <color name="colorPrimaryDark">#3700B3</color>-->
   <!--  <color name="colorAccent">#03DAC5</color>-->
@@ -19,10 +19,15 @@
   <color name="yellowCyberDark">#c5be00</color>
   <color name="blueCyber">#02d7f2</color>
   <color name="blueCyberDark">#00a5bf</color>
+  <color name="redCyber">#fd0130</color>
+  <color name="redCyberDark">#c10009</color>
 
   <color name="blueCyberSaturated">#99eff9</color>
 
-  <color name="redCyber">#fd0130</color>
-  <color name="redCyberDark">#c10009</color>
+  <color name="pink">#ffb2ff</color>
+  <color name="pinkDark">#ea80fc</color>
+  <color name="pinkSaturated">#fff1ff</color>
+  <color name="purple">#7b1fa2</color>
+  <color name="purpleDark">#4a0072</color>
 
 </resources>

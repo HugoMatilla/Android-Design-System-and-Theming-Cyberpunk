@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
-  <!--  LivCode Sample X-->
+  <!--  LivCode Sample 2-->
   <style name="Widget.Cyberpunk.Button.ActionButton" parent="Widget.MaterialComponents.Button.UnelevatedButton">
     <item name="backgroundTint">?attr/colorError</item>
     <item name="shapeAppearance">@style/ShapeAppearance.Cyberpunk.SmallComponent.DoubleCorner</item>

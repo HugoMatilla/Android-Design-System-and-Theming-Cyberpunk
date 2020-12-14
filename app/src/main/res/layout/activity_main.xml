@@ -23,6 +23,8 @@
       app:title="@string/app_name"
       app:titleTextColor="?attr/toolbarTitleColor" />
 
+    <!--    app:titleTextColor="?attr/toolbarTitleColor"-->
+
   </com.google.android.material.appbar.AppBarLayout>
 
   <FrameLayout
@@ -33,6 +35,7 @@
     app:layout_constraintEnd_toEndOf="parent"
     app:layout_constraintStart_toStartOf="parent"
     app:layout_constraintTop_toBottomOf="@id/appbar" />
+
 
   <com.google.android.material.bottomnavigation.BottomNavigationView
     android:id="@+id/bottomNavigation"
@@ -47,6 +50,7 @@
     app:layout_constraintEnd_toEndOf="parent"
     app:layout_constraintStart_toStartOf="parent"
     app:menu="@menu/bottom_navigation_menu" />
-
+  <!--  style="@style/Widget.MaterialComponents.BottomNavigationView.Colored"-->
+  <!--  style="@style/Widget.MaterialComponents.BottomNavigationView.PrimarySurface"-->
 
 </androidx.constraintlayout.widget.ConstraintLayout>

@@ -2,17 +2,69 @@
 <resources>
 
   <style name="Theme.AndroidThemingCyberpunk" parent="Theme.AndroidThemingCyberpunk.Base">
+
     <item name="colorPrimary">@color/yellowCyber</item>
     <item name="colorPrimaryVariant">@color/yellowCyberDark</item>
     <item name="colorOnPrimary">@color/black</item>
 
-
     <item name="colorSecondary">@color/blueCyberSaturated</item>
     <item name="colorSecondaryVariant">@color/blueCyberDark</item>
     <item name="colorOnSecondary">@color/black</item>
-
-    <item name="android:statusBarColor">?attr/colorSurface</item>
-    <!--    <item name="colorOnSurface">?attr/colorPrimary</item>-->
     <item name="toolbarTitleColor">@color/yellowCyber</item>
+  </style>
+  <!--  <style name="Theme.AndroidThemingCyberpunk" parent="Theme.AndroidThemingCyberpunk.Base">-->
+  <!--    <item name="colorPrimary">@color/yellowCyber</item>-->
+  <!--    <item name="colorPrimaryVariant">@color/yellowCyberDark</item>-->
+  <!--    <item name="colorOnPrimary">@color/black</item>-->
+
+
+  <!--    <item name="colorSecondary">@color/blueCyberSaturated</item>-->
+  <!--    <item name="colorSecondaryVariant">@color/blueCyberDark</item>-->
+  <!--    <item name="colorOnSecondary">@color/black</item>-->
+
+  <!--    <item name="android:statusBarColor">?attr/colorSurface</item>-->
+  <!--    &lt;!&ndash;    <item name="colorOnSurface">?attr/colorPrimary</item>&ndash;&gt;-->
+  <!--    <item name="toolbarTitleColor">@color/yellowCyber</item>-->
+  <!--  </style>-->
+
+  <!--  ──██─█╔══╗██▀▄╔══╗██─█── ██▀▄╔══╗██─█──-->
+  <!--  ──▌▐▀█║╔╗║▌▐▀▀║╚╝║▌▐─█── ▌▐─█║╔╗║▌▐─█──-->
+  <!--  ──██─█║╠╣║██──║╔═╝▀▀▀█── ███▀║╠╣║▀▀▀█──-->
+  <!--  ──────╚╝╚╝────╚╝──▀▀▀▀ ──────╚╝╚╝▀▀▀▀──-->
+
+  <!--  ──██─█╔══╗██▀▄╔══╗██─█── ██▀▄╔══╗██─█──-->
+  <!--  ──▌▐▀█║╔╗║▌▐▀▀║╚╝║▌▐─█── ▌▐─█║╔╗║▌▐─█──-->
+  <!--  ──██─█║╠╣║██──║╔═╝▀▀▀█── ███▀║╠╣║▀▀▀█──-->
+  <!--  ──────╚╝╚╝────╚╝──▀▀▀▀ ──────╚╝╚╝▀▀▀▀──-->
+
+  <!--  ──██─█╔══╗██▀▄╔══╗██─█── ██▀▄╔══╗██─█──-->
+  <!--  ──▌▐▀█║╔╗║▌▐▀▀║╚╝║▌▐─█── ▌▐─█║╔╗║▌▐─█──-->
+  <!--  ──██─█║╠╣║██──║╔═╝▀▀▀█── ███▀║╠╣║▀▀▀█──-->
+  <!--  ──────╚╝╚╝────╚╝──▀▀▀▀ ──────╚╝╚╝▀▀▀▀──-->
+
+  <!--  ──██─█╔══╗██▀▄╔══╗██─█── ██▀▄╔══╗██─█──-->
+  <!--  ──▌▐▀█║╔╗║▌▐▀▀║╚╝║▌▐─█── ▌▐─█║╔╗║▌▐─█──-->
+  <!--  ──██─█║╠╣║██──║╔═╝▀▀▀█── ███▀║╠╣║▀▀▀█──-->
+  <!--  ──────╚╝╚╝────╚╝──▀▀▀▀ ──────╚╝╚╝▀▀▀▀──-->
+
+  <!--  ──██─█╔══╗██▀▄╔══╗██─█── ██▀▄╔══╗██─█──-->
+  <!--  ──▌▐▀█║╔╗║▌▐▀▀║╚╝║▌▐─█── ▌▐─█║╔╗║▌▐─█──-->
+  <!--  ──██─█║╠╣║██──║╔═╝▀▀▀█── ███▀║╠╣║▀▀▀█──-->
+  <!--  ──────╚╝╚╝────╚╝──▀▀▀▀ ──────╚╝╚╝▀▀▀▀──-->
+
+  <!--  ──██─█╔══╗██▀▄╔══╗██─█── ██▀▄╔══╗██─█──-->
+  <!--  ──▌▐▀█║╔╗║▌▐▀▀║╚╝║▌▐─█── ▌▐─█║╔╗║▌▐─█──-->
+  <!--  ──██─█║╠╣║██──║╔═╝▀▀▀█── ███▀║╠╣║▀▀▀█──-->
+  <!--  ──────╚╝╚╝────╚╝──▀▀▀▀ ──────╚╝╚╝▀▀▀▀──-->
+
+  <style name="Theme.AndroidThemingKitty" parent="Theme.AndroidThemingKitty.Base">
+    <item name="colorPrimary">@color/pink</item>
+    <item name="colorPrimaryVariant">@color/pinkDark</item>
+    <item name="colorOnPrimary">@color/black</item>
+
+    <item name="colorSecondary">@color/purple</item>
+    <item name="colorSecondaryVariant">@color/purpleDark</item>
+    <item name="colorOnSecondary">@color/black</item>
+    <item name="toolbarTitleColor">@color/purpleDark</item>
   </style>
 </resources>

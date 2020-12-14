@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
+  <!--  <style name="TextAppearance.MaterialComponents.Body1.Cyberpunk" parent="TextAppearance.MaterialComponents.Body1">-->
   <style name="TextAppearance.MaterialComponents.Body1.Cyberpunk">
     <item name="fontFamily">@font/tomorrow</item>
   </style>
@@ -39,7 +40,8 @@
 
   <style name="TextAppearance.MaterialComponents.Headline5.Cyberpunk">
     <!--    <item name="android:textStyle">bold</item>-->
-    <!--        <item name="android:textFontWeight">700</item>-->
+    <!--    <item name="android:textColor">@color/redCyberDark</item>-->
+    <!--                <item name="android:textFontWeight">200</item>-->
     <item name="fontFamily">@font/tomorrow</item>
   </style>
 
@@ -59,6 +61,59 @@
   <!--  LiveCode Sample 5-->
   <style name="TextAppearance.MaterialComponents.Headline6.Cyberpunk.Toolbar">
     <item name="fontFamily">@font/cyberpunk</item>
+  </style>
+
+  <!--  KITTY -->
+  <style name="TextAppearance.MaterialComponents.Body1.Kitty">
+    <item name="fontFamily">@font/vibur</item>
+  </style>
+
+  <style name="TextAppearance.MaterialComponents.Body2.Kitty">
+    <item name="fontFamily">@font/vibur</item>
+  </style>
+
+  <style name="TextAppearance.MaterialComponents.Button.Kitty">
+    <item name="fontFamily">@font/vibur</item>
+  </style>
+
+  <style name="TextAppearance.MaterialComponents.Overline.Kitty">
+    <item name="fontFamily">@font/vibur</item>
+  </style>
+
+  <style name="TextAppearance.MaterialComponents.Caption.Kitty">
+    <item name="fontFamily">@font/vibur</item>
+  </style>
+
+  <style name="TextAppearance.MaterialComponents.Headline1.Kitty">
+    <item name="fontFamily">@font/vibur</item>
+  </style>
+
+  <style name="TextAppearance.MaterialComponents.Headline2.Kitty">
+    <item name="fontFamily">@font/vibur</item>
+  </style>
+
+  <style name="TextAppearance.MaterialComponents.Headline3.Kitty">
+    <item name="fontFamily">@font/vibur</item>
+  </style>
+
+  <style name="TextAppearance.MaterialComponents.Headline4.Kitty">
+    <item name="fontFamily">@font/vibur</item>
+  </style>
+
+  <style name="TextAppearance.MaterialComponents.Headline5.Kitty">
+    <item name="fontFamily">@font/vibur</item>
+  </style>
+
+  <style name="TextAppearance.MaterialComponents.Headline6.Kitty">
+    <item name="fontFamily">@font/vibur</item>
+  </style>
+
+  <style name="TextAppearance.MaterialComponents.Subtitle1.Kitty">
+    <item name="fontFamily">@font/vibur</item>
+  </style>
+
+  <style name="TextAppearance.MaterialComponents.Subtitle2.Kitty">
+    <item name="fontFamily">@font/vibur</item>
   </style>
 
 </resources>
