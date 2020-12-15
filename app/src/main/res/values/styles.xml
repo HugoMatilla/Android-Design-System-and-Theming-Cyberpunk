@@ -2,11 +2,9 @@
 <resources>
 
   <!--  LivCode Sample 2-->
-  <style name="Widget.Cyberpunk.Button.ActionButton" parent="Widget.MaterialComponents.Button.UnelevatedButton">
+  <style name="Widget.Cyberpunk.Button.ActionButton" parent="Widget.MaterialComponents.Button">
     <item name="backgroundTint">?attr/colorError</item>
-    <item name="shapeAppearance">@style/ShapeAppearance.Cyberpunk.SmallComponent.DoubleCorner</item>
   </style>
-
 
   <style name="Widget.Cyber.FloatingActionButton" parent="Widget.MaterialComponents.FloatingActionButton">
     <item name="shapeAppearanceOverlay">@style/ShapeAppearance.Cyberpunk.Fab</item>
