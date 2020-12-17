@@ -5,8 +5,6 @@
   android:layout_width="match_parent"
   android:layout_height="wrap_content"
   tools:context=".MainActivity">
-  <!--  android:background="@color/redCyberDark"-->
-
 
   <LinearLayout
     android:layout_width="match_parent"
@@ -86,8 +84,6 @@
           android:textAppearance="?attr/textAppearanceOverline"
           app:layout_constraintBottom_toBottomOf="parent"
           app:layout_constraintRight_toRightOf="parent" />
-        <!--        android:textColor="?attr/colorSecondary"-->
-
 
       </androidx.constraintlayout.widget.ConstraintLayout>
 
@@ -103,7 +99,7 @@
       android:text="Hacking Button" />
 
     <!-- LiveCode Sample 2-->
-    <!--    style="@style/Widget.MaterialComponents.Button.OutlinedButton"-->
+    <!-- style="@style/Widget.MaterialComponents.Button.OutlinedButton"-->
     <!-- style="@style/Widget.Cyberpunk.Button.ActionButton"-->
 
     <com.google.android.material.floatingactionbutton.FloatingActionButton
